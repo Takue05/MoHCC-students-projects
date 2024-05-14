@@ -1,0 +1,1 @@
+mvn -f mrs-web/pom.xml
