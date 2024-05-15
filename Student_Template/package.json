@@ -1,0 +1,24 @@
+{
+  "name": "student_template",
+  "version": "1.0.0",
+  "description": "client side for student module",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "MoHCC-students-projects"
+  },
+  "keywords": [
+    "ministry",
+    "of",
+    "health"
+  ],
+  "author": "Charmaine Makara",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
